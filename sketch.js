@@ -11,6 +11,7 @@ let engine;
 let world;
 var rope,fruit,ground;
 var fruit_con;
+var hello;
 
 var bg_img;
 var food;
