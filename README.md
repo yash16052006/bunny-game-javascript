@@ -1,2 +1,2 @@
-# CLASS31
+# bunny-game-javascript
 bunny game 
